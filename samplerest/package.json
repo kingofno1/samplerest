@@ -1,0 +1,9 @@
+{
+  "name": "samplerest",
+  "version": "0.0.0",
+  "description": "samplerest",
+  "main": "app.js",
+  "author": {
+    "name": "Mocos"
+  }
+}
