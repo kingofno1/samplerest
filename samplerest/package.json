@@ -5,5 +5,10 @@
   "main": "app.js",
   "author": {
     "name": "Mocos"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mssql": "^4.0.4"
   }
 }

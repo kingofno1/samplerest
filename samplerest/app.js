@@ -1,3 +1,4 @@
 'use strict';
+require("./db/SummInfo");
 
-console.log('Hello world');
+
